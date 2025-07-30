@@ -1,0 +1,32 @@
+** start of index.html **
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Recipe Page</title>
+    <meta charset="utf-8">
+  </head>
+
+  <body>
+      <h1>Recipe Name</h1>
+      <p>introduction for recipe</p>
+      <h2>Ingredients</h2>
+      <ul>
+        <li>first ingredient</li>
+        <li>second ingredient</li>
+        <li>third ingredient</li>
+        <li>fourth ingredient</li>
+      </ul>
+      <h2>Instructions</h2>
+      <ol>
+        <li>first step</li>
+        <li>second step</li>
+        <li>third step</li>
+        <li>fourth step</li>
+      </ol>
+      <img src="https://cdn.freecodecamp.org/curriculum/labs/recipe.jpg" alt="Some eggs">
+  </body>
+</html>
+
+** end of index.html **
+
